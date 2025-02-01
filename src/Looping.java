@@ -19,7 +19,7 @@ public class Looping {
             if (average >= 60)
                 System.out.println(name + " passed!");
             else
-                System.out.println(name + " failed...");
+                System.out.println(name + " failed!");
 
         }
     }
